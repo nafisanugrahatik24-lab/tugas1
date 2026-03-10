@@ -1,0 +1,6 @@
+Ini adalah file contoh untuk latihan Git.
+
+Perubahan yang dilakukan:
+1. Menambahkan file
+2. Mengedit isi file
+3. Menghapus file
